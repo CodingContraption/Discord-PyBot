@@ -1,6 +1,8 @@
 # A python Discord Bot
 Just a bot I made to do funny things on my discord server.
 
+Don't forget to add your token in the .txt file.
+
 Library used for discord API: [Discord.py](https://github.com/Rapptz/discord.py)
 
 ## Important:
